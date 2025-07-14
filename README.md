@@ -55,7 +55,7 @@ Hey, I'm Sebas from Argentina. I'm a Computer Science student and backend develo
 
 ## Links:
 [![Website](https://img.shields.io/badge/Sitio_Web-000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://sebastianfurnier.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](www.linkedin.com/in/sebastian-furnier)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/sebastian-furnier)
 
 ## Contact:
 
